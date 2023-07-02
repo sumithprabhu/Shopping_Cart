@@ -7,6 +7,10 @@
     background-color: #f8f9fa;
     transition: transform 0.3s ease-in-out;
     z-index: 1000; /* Adjust z-index as needed */
+    border-color: black;
+    border-width: 0;
+    border-left: 1px;
+    border-style: solid;
   }
   
   .sliding-navbar.open {
