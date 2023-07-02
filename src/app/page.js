@@ -1,8 +1,8 @@
 "use client";
 import { useState } from "react";
-import axios from "axios";
+
 import { useStore } from "../store/store";
-import Cart from "../components/Cart";
+
 import "bootstrap/dist/css/bootstrap.css";
 import SideNavbar from "../components/SideNavbar/SideNavbar";
 import './page.css'
