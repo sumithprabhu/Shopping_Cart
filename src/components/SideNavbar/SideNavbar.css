@@ -1,0 +1,27 @@
+.sliding-navbar {
+    position: fixed;
+    top: 0;
+    right: -300px; /* Initial position */
+    width: 300px;
+    height: 100%;
+    background-color: #f8f9fa;
+    transition: transform 0.3s ease-in-out;
+    z-index: 1000; /* Adjust z-index as needed */
+  }
+  
+  .sliding-navbar.open {
+    transform: translateX(-300px); /* Slide in from the right */
+  }
+  
+  .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  .button-1{
+    width: 100px;
+    height: 50px;
+    margin-top: 20px;
+  }
+  
