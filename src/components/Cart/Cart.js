@@ -1,4 +1,4 @@
-import { useStore } from '../store/store';
+import { useStore } from '../../store/store';
 
 export default function Cart() {
   const cartItems = useStore((state) => state.cartItems);

@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import { Button, Nav } from 'react-bootstrap';
 import './SideNavbar.css'; 
-import Cart from '../Cart';
+import Cart from '../Cart/Cart';
+import { BsFillCartFill } from 'react-icons/bs';
 
 const SideNavbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -13,7 +14,7 @@ const SideNavbar = () => {
   return (
     <>
       <Button variant="primary" className="button-1" onClick={toggleNavbar}>
-        Cart
+        Cart <BsFillCartFill />
       </Button>
       <div className={`sliding-navbar ${isOpen ? 'open' : ''}`}>
         <Button variant="secondary" className="close-btn" onClick={toggleNavbar}>
