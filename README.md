@@ -9,10 +9,10 @@
 
 # Screenshots
 
-![App Screenshot](https://github.com/sumithprabhu/Chain_Schedule/blob/main/src/images/Screenshot%202023-06-17%20125241.png)
+![App Screenshot](https://github.com/sumithprabhu/Shopping_Cart/blob/main/images/Screenshot%202023-07-02%20163735.png?raw=true)
 
-![App Screenshot](https://github.com/sumithprabhu/Chain_Schedule/blob/main/src/images/Screenshot%202023-06-17%20125241.png)
+![App Screenshot](https://github.com/sumithprabhu/Shopping_Cart/blob/main/images/Screenshot%202023-07-02%20163800.png?raw=true)
 
-![App Screenshot](https://github.com/sumithprabhu/Chain_Schedule/blob/main/src/images/Screenshot%202023-06-17%20125241.png)
+![App Screenshot](https://github.com/sumithprabhu/Shopping_Cart/blob/main/images/Screenshot%202023-07-02%20163748.png?raw=true)
 
 
